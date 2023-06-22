@@ -30,5 +30,5 @@ http://localhost/Medico/index.html#book
 
 
 # Presentation Link :
-    https://docs.google.com/presentation/d/1Y-uwi9axTFxVGefyxjzp64gO19by5laMCqNvLIJ3rdA/edit?usp=sharing
+https://docs.google.com/presentation/d/1Y-uwi9axTFxVGefyxjzp64gO19by5laMCqNvLIJ3rdA/edit?usp=sharing
 
