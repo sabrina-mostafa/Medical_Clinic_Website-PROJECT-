@@ -1,6 +1,6 @@
 # Medical_Clinic_Website
 
-## Git-hub link of the website -
+## Live Preview of the website -
 https://sabrina-mostafa.github.io/PROJECT_Medical-Clinic-Website/
 
 
