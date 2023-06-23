@@ -1,7 +1,7 @@
 # Medical_Clinic_Website
 
 ## Git-hub link of the website -
-https://sabrina-mostafa.github.io/PROJECT_Medical-Clinic-Website./
+https://sabrina-mostafa.github.io/PROJECT_Medical-Clinic-Website/
 
 
 ## For localhost testing -
