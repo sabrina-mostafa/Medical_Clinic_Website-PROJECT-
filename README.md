@@ -30,5 +30,7 @@ http://localhost/Medico/index.html#book
 
 
 # Presentation Link :
+https://www.canva.com/design/DAFTQyNQUjI/65Epq-Du3sMQROhOiAFsEw/view?utm_content=DAFTQyNQUjI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+## or
 https://docs.google.com/presentation/d/1Y-uwi9axTFxVGefyxjzp64gO19by5laMCqNvLIJ3rdA/edit?usp=sharing
 
