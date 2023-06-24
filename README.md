@@ -5,7 +5,7 @@ https://sabrina-mostafa.github.io/PROJECT_Medical-Clinic-Website/
 
 
 ## For localhost testing -
-http://localhost/Medico/index.html#book
+link : http://localhost/Medico/index.html#book
 <br/><br/>
 
 
