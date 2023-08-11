@@ -288,6 +288,7 @@ section:nth-child(even){
     padding-top: 25px;
 }
 
+
 .img-gallery{
     width: 80%;
     margin: 50px auto 100px;
@@ -727,6 +728,24 @@ section:nth-child(even){
 
 
 /* media queries for responsive effect  */
+
+@media screen and (max-width:1500px){
+    html{
+        font-size: 55%;
+    }
+
+    .header{
+        padding: 2rem;
+    }
+
+    section{
+        padding:2rem;
+    }
+    .img-gallery{
+        grid-template-columns: repeat(3, minmax(300px, 3fr));
+    }
+}
+
 @media screen and (max-width:991px){
     html{
         font-size: 55%;
